@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "PAGE TITLE 2"
 permalink: /about/moreAbout/
 ---
 
